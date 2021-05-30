@@ -1,3 +1,7 @@
+/*Yuliya Vaskiv - Summer 2020
+Khan Academy - Computer Science Course
+JavaScript*/
+
 var xPositions = [0];
 var yPositions = [5];
 
